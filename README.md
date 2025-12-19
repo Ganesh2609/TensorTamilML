@@ -1,70 +1,75 @@
-# Machine Learning Full Series in Tamil — Code Repository
+# Tensor Tamil YT — Code Repository
 
-A complete Machine Learning course in Tamil, covering every major ML concept from intuition to theory to coding. This repository contains all code implementations accompanying the **[Tensor Tamil YouTube Channel](https://www.youtube.com/@TensorTamil)**.
-
-## About Tensor Tamil
-
-**TensorTamil** is a dedicated learning space for anyone who wants to understand Artificial Intelligence and Machine Learning clearly and deeply. Each video breaks down complex ideas into simple, intuitive explanations using visual tools, real-world intuition, and step-by-step code implementations.
-
-- **Channel**: https://www.youtube.com/@TensorTamil
-- **Focus**: Machine Learning, Deep Learning, and AI fundamentals
-- **Teaching Style**: Intuition → Mathematics → Code Implementation
-- **Language**: Tamil with English technical terms
-
-### Channel Philosophy
-
-Whether you are a beginner exploring core concepts or an engineering student strengthening your foundations, this channel guides you through each topic in a clear, structured, and practical way.
-
-Lessons include:
-- Graphical intuition using visual tools (GeoGebra, diagrams)
-- Detailed mathematical derivations of key equations
-- Loss functions, gradients, and optimization methods
-- Multiple coding approaches—from scratch implementations to clean functional versions
-- Real-life dataset applications
+A comprehensive **Computer Science, AI, and Engineering learning repository in Tamil**, covering fundamentals, advanced concepts, interview preparation, and real-world problem solving. This repository contains all code implementations, experiments, and learning material that accompany the **[Tensor Tamil YouTube Channel](https://www.youtube.com/@TensorTamil)**.
 
 ---
 
-## Course Philosophy
+## About Tensor Tamil
 
-This course is built for learners who want clarity without shortcuts:
+**Tensor Tamil** is a focused learning platform built to help learners understand technology concepts **clearly, deeply, and practically**. The channel and this repository are designed to grow with the learner—from core foundations to advanced systems and research-oriented thinking.
 
-✓ **Build Strong Fundamentals** — Understand the "why" behind each concept, not just the "how"
-✓ **From Intuition to Code** — Progress logically from visual understanding → mathematical theory → implementation
-✓ **No Black-Box Learning** — Every algorithm is explained and coded from scratch first
-✓ **Clear, Readable Code** — Code prioritizes learning over performance
+* **Channel**: [https://www.youtube.com/@TensorTamil](https://www.youtube.com/@TensorTamil)
+* **Coverage**: Computer Science, AI, Machine Learning, Deep Learning, and Advanced Architectures
+* **Language**: Tamil (with standard English technical terminology)
+* **Approach**: Conceptual clarity first, implementation next
+
+---
+
+## Learning Philosophy
+
+Tensor Tamil follows a **clarity-first, depth-oriented philosophy**:
+
+✓ **Strong Fundamentals** — Build concepts that scale to advanced topics
+✓ **Intuition → Theory → Code** — Every topic follows a structured learning path
+✓ **No Blind Abstractions** — Internal workings are explained before using libraries
+✓ **Engineering Mindset** — Learn how and *why* systems are designed
+✓ **Readable, Educational Code** — Code is written for understanding, not shortcuts
 
 ---
 
 ## How to Use This Repository
 
-1. **Watch the Video** — Visit the [Tensor Tamil Channel](https://www.youtube.com/@TensorTamil) and watch a topic
-2. **Explore the Code** — Navigate to the corresponding folder in this repository
-3. **Run & Experiment** — Execute the code, modify it, and understand how it works
-4. **Practice** — Try implementing the concepts on your own datasets
+1. **Watch the Video**  
+   Start with the relevant video or playlist on the [Tensor Tamil Channel](https://www.youtube.com/@TensorTamil)
 
-### Prerequisites
+2. **Navigate the Repository**  
+   Each topic or series has its own folder aligned with the videos
 
-- Basic Python knowledge (3+ months recommended)
-- Familiarity with NumPy, Pandas, and Matplotlib
-- Understanding of basic algebra and calculus (helpful but not required)
+3. **Run and Modify Code**  
+   Experiment with the implementations and change parameters to observe behavior
 
-### Getting Started
+4. **Apply the Concepts**  
+   Try extending the ideas to new problems, datasets, or interview-style questions
+
+---
+
+## Prerequisites
+
+* Basic programming knowledge (Python recommended)
+* Willingness to learn concepts step by step
+* Mathematical background is helpful but **not mandatory**—concepts are explained from the ground up
+
+---
+
+## Getting Started
 
 Clone the repository:
+
 ```bash
-git clone https://github.com/Ganesh2609/TensorTamilML.git
-cd TensorTamilML
+git clone https://github.com/Ganesh2609/TensorTamil.git
+cd TensorTamil
 ```
 
 ---
 
-## Connect With Us
+## Connect & Follow
 
-- **YouTube Channel**: https://www.youtube.com/@TensorTamil
-- **Subscribe** for new Machine Learning, Deep Learning, and AI videos in Tamil
-- **Like & Comment** to support the channel and suggest future topics
+* **YouTube**: [https://www.youtube.com/@TensorTamil](https://www.youtube.com/@TensorTamil)
+* **Subscribe** for structured learning series and advanced discussions
+* **Comment & Engage** to suggest topics, improvements, or problem ideas
 
 ---
 
-**Happy Learning! Keep experimenting, asking questions, and building your ML fundamentals.** 🚀
+**This repository is a living project.** As new playlists, research explorations, and learning tracks are added to the channel, the repository will continue to expand accordingly.
 
+Happy learning, experimenting, and building strong foundations.
